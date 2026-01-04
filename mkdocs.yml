@@ -42,6 +42,8 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/skirvdj/
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/users/665254531361275917
 nav:
   - Home: index.md
   - Diensten: diensten.md
