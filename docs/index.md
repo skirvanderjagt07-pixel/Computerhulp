@@ -7,7 +7,7 @@ Ik help u snel en rustig verder, zonder moeilijke termen en zonder onnodige kost
 
 Maak direct een [afspraak](https://skirvanderjagt07-pixel.github.io/Computerhulp/afspraak/).
 
-## Waarmee kan ik helpen?
+## Waarmee ik u kan helpen:
 - Computer of laptop werkt traag of start niet op
 - Printerproblemen (niet printen, verbinden, foutmeldingen)
 - E-mailproblemen (instellen, wachtwoord kwijt, spam)
