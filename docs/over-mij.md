@@ -5,7 +5,7 @@ Hallo! Mijn naam is **Skir van der Jagt** en ik help particulieren in **Oostvoor
 Ik begrijp dat techniek soms verwarrend kan zijn, en dat het frustrerend is als iets niet werkt. Daarom bied ik **persoonlijke en duidelijke hulp**, zonder moeilijke termen, met een rustige uitleg en praktische oplossingen.
 
 ## Mijn diensten
-Ik help onder andere met:
+### Ik help onder andere met:
 - Computer- en laptopproblemen  
 - Printerproblemen en installatie  
 - Telefoon- en tabletproblemen  
