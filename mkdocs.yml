@@ -2,6 +2,7 @@ site_name: Skir
 site_url: https://skirvanderjagt07-pixel.github.io/Computerhulp/
 theme:
   name: material
+  custom_dir: material/overrides
   features:
     - content.action.edit
     - content.action.view
