@@ -2,3 +2,10 @@ site_name: Computerhulp
 site_url: https://skirvanderjagt07-pixel.github.io/Computerhulp
 theme:
   name: material
+nav:
+  - Home: index.md
+  - Diensten: diensten.md
+  - Tarieven: tarieven.md
+  - Afspraak maken: afspraak.md
+  - Over mij: over-mij.md
+  - Contact: contact.md
