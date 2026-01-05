@@ -15,8 +15,7 @@ Ik help u snel en rustig verder, zonder moeilijke termen en zonder onnodige kost
 - Software installeren of uitleg krijgen
 - Internet-, wifi- of updateproblemen
 
-Twijfelt u of ik u kan helpen?
-Neem gerust [contact](https://skirvanderjagt07-pixel.github.io/Computerhulp/contact/) op
+Neem gerust [contact](https://skirvanderjagt07-pixel.github.io/Computerhulp/contact/) op, om het probleem te bespreken, vast te stellen en het op te lossen.
 
 ## Transparant & eerlijk
 - Duidelijke afspraken
