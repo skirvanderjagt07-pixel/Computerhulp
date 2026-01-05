@@ -3,6 +3,7 @@ site_url: https://techhulpvoorne.nl
 theme:
   name: material
   custom_dir: material/overrides
+  logo: logo.png
   favicon: favicon.png
   features:
     - content.action.edit
