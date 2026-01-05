@@ -44,6 +44,8 @@ extra:
       link: https://www.instagram.com/skirvdj/
     - icon: fontawesome/brands/discord
       link: https://discord.com/users/665254531361275917
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/skir.vanderjagt
 nav:
   - Home: index.md
   - Diensten: diensten.md
