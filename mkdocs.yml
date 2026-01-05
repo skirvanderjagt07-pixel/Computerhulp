@@ -35,7 +35,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: red
       accent: indigo
   font:
     text: Roboto
