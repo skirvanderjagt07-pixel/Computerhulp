@@ -15,6 +15,8 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+  toc:
+    hide: true
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
