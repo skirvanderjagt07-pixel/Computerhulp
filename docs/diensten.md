@@ -1,5 +1,5 @@
 # Diensten
-Bij **TechHulp Voorne** help ik u met allerlei technische problemen.  
+Bij **Tech Support Voorne** help ik u met allerlei technische problemen.  
 Of het nu gaat om uw computer, laptop, printer, telefoon of e-mail: ik bied **snelle, persoonlijke en duidelijke hulp**.
 
 ## Computer & Laptop
