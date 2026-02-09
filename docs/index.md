@@ -1,4 +1,4 @@
-# TechHulp zonder gedoe
+# Tech Support Voorne
 
 Hulp bij computers, laptops, printers, telefoons, tablets en e-mail.
 
