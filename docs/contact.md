@@ -11,3 +11,9 @@ Ik probeer berichten/e-mails zo snel mogelijk te beantwoorden, meestal binnen 4 
 ## Werkgebied
 Ik bied hulp aan in **Oostvoorne & Brielle**.  
 Twijfelt u of ik u kan helpen? Neem gerust contact op.
+
+## Bedrijfsinformatie
+KvK: 99669692
+BTW: NL005402799B12
+
+Correspondentieadres: Goudhoekweg 10 3233AM Oostvoorne
