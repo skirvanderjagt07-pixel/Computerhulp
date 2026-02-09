@@ -16,4 +16,4 @@ Geen verrassingen, gewoon duidelijke prijzen voor snelle, persoonlijke hulp.
 - Afspraken die korter duren worden altijd afgerond naar **60 minuten**.
 
 ## Betaalopties
-U kunt mij betalen via een **Factuur** of met **contant geld**.
+U kunt mij betalen via een **IDeal/WERO** of met **contant geld**.
