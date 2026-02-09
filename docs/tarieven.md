@@ -3,7 +3,7 @@ Bij **TechHulp Voorne** betaal je **transparant en eerlijk**.
 Geen verrassingen, gewoon duidelijke prijzen voor snelle, persoonlijke hulp.
 
 ## Uurtarief
-€15 per uur
+€35 per uur
 
 > Is het mij niet gelukt om u te helpen? Dan betaalt u helemaal niks. Ook geen voorrijkosten, indien deze van toepassing zijn.
 
@@ -16,4 +16,4 @@ Geen verrassingen, gewoon duidelijke prijzen voor snelle, persoonlijke hulp.
 - Afspraken die korter duren worden altijd afgerond naar **60 minuten**.
 
 ## Betaalopties
-U kunt mij betalen via een **Tikkie/Bankoverschrijving** of met **contant geld**.
+U kunt mij betalen via een **Factuur** of met **contant geld**.
