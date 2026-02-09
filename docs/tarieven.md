@@ -1,5 +1,5 @@
 # Tarieven
-Bij **TechHulp Voorne** betaal je **transparant en eerlijk**.  
+Bij **Tech Support Voorne** betaal je **transparant en eerlijk**.  
 Geen verrassingen, gewoon duidelijke prijzen voor snelle, persoonlijke hulp.
 
 ## Uurtarief
